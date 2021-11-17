@@ -1,11 +1,11 @@
 {
-    "name": "irfan/contact",
+    "name": "auworldteck/contact",
     "description": "This will send email to admin and save in database",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Irfan\\Contact\\": "src/"
+            "Auworldteck\\Contact\\": "src/"
         }
     },
     "authors": [

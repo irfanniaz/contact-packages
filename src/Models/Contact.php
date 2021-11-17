@@ -1,6 +1,6 @@
 <?php
 
-namespace Irfan\Contact\Models;
+namespace Auworldteck\Contact\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

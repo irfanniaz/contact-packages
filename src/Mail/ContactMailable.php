@@ -1,6 +1,6 @@
 <?php
 
-namespace Irfan\Contact\Mail;
+namespace Auworldteck\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

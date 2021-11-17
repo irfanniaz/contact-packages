@@ -1,11 +1,11 @@
 <?php
 
-namespace Irfan\Contact\Http\Controllers;
+namespace Auworldteck\Contact\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-use Irfan\Contact\Models\Contact;
-use Irfan\Contact\mail\ContactMailable;
+use Auworldteck\Contact\Models\Contact;
+use Auworldteck\Contact\mail\ContactMailable;
 use Illuminate\Support\Facades\Mail;
 
 

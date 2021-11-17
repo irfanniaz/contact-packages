@@ -1,6 +1,6 @@
 <?php
 
-namespace Irfan\Contact;
+namespace Auworldteck\Contact;
 
 use Illuminate\Support\ServiceProvider;
 
